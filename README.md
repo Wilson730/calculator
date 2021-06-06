@@ -1,0 +1,1 @@
+A calculator made using vanilla Javascript, html, and css
